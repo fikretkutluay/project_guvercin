@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1d98140045f7fd84db6379c28a093ff9
+guid: 6beca9c5b89ef0d449074692b63d3c42
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,7 +97,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638836501786233850
+  platformSettingsDirtyTick: 638836947822051209
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -121,18 +121,98 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: "taklac\u01312_Frame_0"
+  - name: "\u0131dle.posta_Frame_0"
     originalName: 
-    pivot: {x: 0.73913044, y: 0.53741497}
-    alignment: 9
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 113
+      width: 44
+      height: 45
+    spriteID: 9cbc6a7382cda7541845350a5db414f3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -1, y: 103}
+  - name: "\u0131dle.posta_Frame_1"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 166
+      width: 44
+      height: 45
+    spriteID: 858850abb1fe48e41aca343a69c8a331
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 166}
+  - name: "\u0131dle.posta_Frame_2"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 113
+      width: 44
+      height: 43
+    spriteID: 8f803a85b67132b4baee2fe54d75827f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 56, y: 113}
+  - name: "\u0131dle.posta_Frame_3"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 59
+      width: 44
+      height: 46
+    spriteID: e8c416376f05cdc41b41b3bc1408b018
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -1, y: 50}
+  - name: "\u0131dle.posta_Frame_4"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 184
-      height: 147
-    spriteID: 4955b6b1b6812fb40a7fb03faffeaa45
+      width: 44
+      height: 47
+    spriteID: 72d387148a0641b48a51fb298fdd603f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -140,19 +220,19 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 4, y: 4}
-  - name: "taklac\u01312_Frame_1"
+    uvTransform: {x: -1, y: -5}
+  - name: "\u0131dle.posta_Frame_5"
     originalName: 
-    pivot: {x: 0.73333335, y: 0.5448275}
-    alignment: 9
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 4
-      y: 159
-      width: 180
-      height: 145
-    spriteID: 74f713dd1a738e74e83cb39357fbc7d8
+      x: 56
+      y: 58
+      width: 42
+      height: 47
+    spriteID: 8dcf4b41658845f40b962c84839a9af6
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -160,34 +240,99 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 4, y: 159}
+    uvTransform: {x: 50, y: 49}
+  - name: "\u0131dle.posta_Frame_6"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 4
+      width: 43
+      height: 46
+    spriteID: ca8649bacb119064283040175ec1f9a5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 48, y: -5}
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -1954123941
-    name: "taklac\u01312"
+    guid: 1066893903
+    name: "\u0131dle.posta"
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: "taklac\u01312_Frame_0"
+    - name: "\u0131dle.posta_Frame_0"
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
-        x: 24
-        y: -79
-        width: 184
-        height: 147
-      spriteId: 4955b6b1b6812fb40a7fb03faffeaa45
-    - name: "taklac\u01312_Frame_1"
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      spriteId: 9cbc6a7382cda7541845350a5db414f3
+    - name: "\u0131dle.posta_Frame_1"
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
-        x: 28
-        y: -79
-        width: 180
-        height: 145
-      spriteId: 74f713dd1a738e74e83cb39357fbc7d8
+        x: 5
+        y: 11
+        width: 44
+        height: 45
+      spriteId: 858850abb1fe48e41aca343a69c8a331
+    - name: "\u0131dle.posta_Frame_2"
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 5
+        y: 12
+        width: 44
+        height: 43
+      spriteId: 8f803a85b67132b4baee2fe54d75827f
+    - name: "\u0131dle.posta_Frame_3"
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      spriteId: e8c416376f05cdc41b41b3bc1408b018
+    - name: "\u0131dle.posta_Frame_4"
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      spriteId: 72d387148a0641b48a51fb298fdd603f
+    - name: "\u0131dle.posta_Frame_5"
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      spriteId: 8dcf4b41658845f40b962c84839a9af6
+    - name: "\u0131dle.posta_Frame_6"
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      spriteId: ca8649bacb119064283040175ec1f9a5
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -218,4 +363,4 @@ ScriptedImporter:
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 320, y: 180}
+  canvasSize: {x: 64, y: 64}

@@ -63,10 +63,12 @@ public class GameManager : MonoBehaviour
         {
             Instance = this;
             DontDestroyOnLoad(gameObject);
+
         }
         else
         {
             Destroy(gameObject);
+            Debug.Log("GameManager Desstroyed");
         }
 
         // Oyuncu verilerini başlat
@@ -175,12 +177,14 @@ public class GameManager : MonoBehaviour
 
     public void OnCharacterSelectedPlayer1(int characterIndex)
     {
-        OnCharacterSelected(0, characterIndex);
+        Debug.Log("Player 1 seçimi: " + characterIndex);
+        players[0].selectedCharacterIndex = characterIndex;
     }
 
     public void OnCharacterSelectedPlayer2(int characterIndex)
     {
-        OnCharacterSelected(1, characterIndex);
+        Debug.Log("Player 2 seçimi: " + characterIndex);
+        players[1].selectedCharacterIndex = characterIndex;
     }
 
     public void OnCharacterSelected(int playerIndex, int characterIndex)

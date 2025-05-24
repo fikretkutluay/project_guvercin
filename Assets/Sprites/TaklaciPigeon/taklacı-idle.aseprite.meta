@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b41b4d3d663b589419c7290a862a4aef
+guid: cf303adfa2d908643a8da1cc80f6905c
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,7 +97,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638836940047137707
+  platformSettingsDirtyTick: 638836942126356537
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -121,27 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: "\u0131dle.donek_Frame_0"
-    originalName: 
-    pivot: {x: 0.5, y: 0.5}
-    alignment: 0
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 4
-      y: 63
-      width: 51
-      height: 49
-    spriteID: d25a1b67727625140878618e1cee1c82
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 4, y: 63}
-  - name: "\u0131dle.donek_Frame_1"
+  - name: "taklac\u0131-idle_Frame_0"
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -150,9 +130,9 @@ ScriptedImporter:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 51
-      height: 51
-    spriteID: b4ab87eb4f3f7934386c03e23953474b
+      width: 56
+      height: 46
+    spriteID: 5a35961c894efcb4e8be460571e29028
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,33 +141,82 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
+  - name: "taklac\u0131-idle_Frame_1"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 58
+      width: 56
+      height: 45
+    spriteID: f90bd6da6c4256d49b139893a6da28ee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 58}
+  - name: "taklac\u0131-idle_Frame_2"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 68
+      y: 4
+      width: 56
+      height: 43
+    spriteID: d3d743adaa88c334ba15c4714ecf529d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 68, y: 4}
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: 1097408657
-    name: "\u0131dle.donek"
+    guid: -2104862294
+    name: "taklac\u0131-idle"
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: "\u0131dle.donek_Frame_0"
+    - name: "taklac\u0131-idle_Frame_0"
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
-        x: 3
-        y: 3
-        width: 51
-        height: 49
-      spriteId: d25a1b67727625140878618e1cee1c82
-    - name: "\u0131dle.donek_Frame_1"
+        x: 26
+        y: 20
+        width: 56
+        height: 46
+      spriteId: 5a35961c894efcb4e8be460571e29028
+    - name: "taklac\u0131-idle_Frame_1"
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
-        x: 3
-        y: 3
-        width: 51
-        height: 51
-      spriteId: b4ab87eb4f3f7934386c03e23953474b
+        x: 26
+        y: 20
+        width: 56
+        height: 45
+      spriteId: f90bd6da6c4256d49b139893a6da28ee
+    - name: "taklac\u0131-idle_Frame_2"
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 20
+        width: 56
+        height: 43
+      spriteId: d3d743adaa88c334ba15c4714ecf529d
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -218,4 +247,4 @@ ScriptedImporter:
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 64, y: 64}
+  canvasSize: {x: 320, y: 180}
